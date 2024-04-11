@@ -1,0 +1,16 @@
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/bin/Debug/net8.0/Company.Project.Services.deps.json
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/bin/Debug/net8.0/Company.Project.Services.dll
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/bin/Debug/net8.0/Company.Project.Services.pdb
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/bin/Debug/net8.0/Company.Project.Repositories.Abstractions.dll
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/bin/Debug/net8.0/Company.Project.Repositories.Abstractions.pdb
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company.Project.Services.csproj.AssemblyReference.cache
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company.Project.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company.Project.Services.AssemblyInfoInputs.cache
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company.Project.Services.AssemblyInfo.cs
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company.Project.Services.csproj.CoreCompileInputs.cache
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company.Project.Services.sourcelink.json
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company..114CC518.Up2Date
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company.Project.Services.dll
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/refint/Company.Project.Services.dll
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/Company.Project.Services.pdb
+/home/welder/repos/dotnet-templates/src/Company.Project.Services/obj/Debug/net8.0/ref/Company.Project.Services.dll

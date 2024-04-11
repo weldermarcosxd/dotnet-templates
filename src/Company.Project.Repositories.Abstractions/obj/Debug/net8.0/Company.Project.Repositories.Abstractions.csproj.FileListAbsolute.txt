@@ -1,0 +1,12 @@
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/bin/Debug/net8.0/Company.Project.Repositories.Abstractions.deps.json
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/bin/Debug/net8.0/Company.Project.Repositories.Abstractions.dll
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/bin/Debug/net8.0/Company.Project.Repositories.Abstractions.pdb
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/Company.Project.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/Company.Project.Repositories.Abstractions.AssemblyInfoInputs.cache
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/Company.Project.Repositories.Abstractions.AssemblyInfo.cs
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/Company.Project.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/Company.Project.Repositories.Abstractions.sourcelink.json
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/Company.Project.Repositories.Abstractions.dll
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/refint/Company.Project.Repositories.Abstractions.dll
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/Company.Project.Repositories.Abstractions.pdb
+/home/welder/repos/dotnet-templates/src/Company.Project.Repositories.Abstractions/obj/Debug/net8.0/ref/Company.Project.Repositories.Abstractions.dll

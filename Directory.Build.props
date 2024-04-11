@@ -1,0 +1,15 @@
+<Project>
+
+  <PropertyGroup>
+    <TargetFrameworkVersion>net8.0</TargetFrameworkVersion>
+    <SwashbuckleAspNetCoreVersion>6.4.0</SwashbuckleAspNetCoreVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <CoverletCollectorVersion>6.0.0</CoverletCollectorVersion>
+    <MicrosoftTestSdkVersion>17.8.0</MicrosoftTestSdkVersion>
+    <XunitVersion>2.5.3</XunitVersion>
+    <XunitRunnerVersion>2.5.3</XunitRunnerVersion>
+  </PropertyGroup>
+
+</Project>

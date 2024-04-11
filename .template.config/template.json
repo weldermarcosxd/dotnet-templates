@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Welder Marcos Silva",
+  "classifications": ["WebApi", "MVC"],
+  "identity": "WMSWebApi",
+  "name": "Template com projetos criados",
+  "shortName": "WMSAPI",
+  "sourceName": "Company.Project",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
